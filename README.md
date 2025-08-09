@@ -1,4 +1,4 @@
 # portfolio
 
 # url
-https://t-watatani.github.io/portfolio/docs/
+https://y-watatani.github.io/portfolio/docs/
